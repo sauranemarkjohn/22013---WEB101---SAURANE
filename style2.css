@@ -1,0 +1,21 @@
+body{
+  background-color: #E0F7FA;
+}
+
+h1 {
+  text-align: center;
+  color: brown;
+}
+
+
+div {
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    height: 300px;         
+}
+div img {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+}
